@@ -20,4 +20,4 @@ jobs:
           SOURCE: "."
           REMOTE_HOST: ${{ secrets.ALIYUN_SERVER_IP }}
           REMOTE_USER: ${{ secrets.ALIYUN_SERVER_USER }}
-          TARGET: "/guangsu"
+          TARGET: "/guangsu/guangsu"
