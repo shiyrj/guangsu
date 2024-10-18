@@ -1,17 +1,17 @@
 name: Deploy to Server
- 
+
 on:
   push:
     branches:
-      - main  
- 
+      - main
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
- 
+
       - name: Setup Rsync
         uses: easingthemes/ssh-deploy@v2.1.5
         env:
