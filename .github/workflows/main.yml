@@ -1,0 +1,23 @@
+name: Deploy to Server
+ 
+on:
+  push:
+    branches:
+      - main  
+ 
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+ 
+      - name: Setup Rsync
+        uses: easingthemes/ssh-deploy@v2.1.5
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.ALIYUN_SSH_PRIVATE_KEY }}
+          ARGS: "-avz --delete"
+          SOURCE: "."
+          REMOTE_HOST: ${{ secrets.ALIYUN_SERVER_IP }}
+          REMOTE_USER: ${{ secrets.ALIYUN_SERVER_USER }}
+          TARGET: "/guangsu"
