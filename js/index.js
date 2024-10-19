@@ -89,8 +89,8 @@ function replaceContent(value) {
     }
     if (value === 'JetBrains') {
         removeStyle();
-        document.getElementById("kf").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
-        xhr.open('GET', 'ruanjian/kf.html'); // 设置请求类型、地址等信息
+        document.getElementById("jb").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/jb.html'); // 设置请求类型、地址等信息
     }
     if (value === '软件开发') {
         removeStyle();
@@ -104,8 +104,13 @@ function replaceContent(value) {
     }
     if (value === '电路设计') {
         removeStyle();
-        document.getElementById("zdh").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
-        xhr.open('GET', 'ruanjian/zdh.html'); // 设置请求类型、地址等信息
+        document.getElementById("dlsj").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/dlsj.html'); // 设置请求类型、地址等信息
+    }
+    if (value === '其他') {
+        removeStyle();
+        document.getElementById("qt").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/qt.html'); // 设置请求类型、地址等信息
     }
     if (value === '办公软件') {
         removeStyle();
