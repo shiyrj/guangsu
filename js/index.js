@@ -114,8 +114,8 @@ function replaceContent(value) {
     }
     if (value === '办公软件') {
         removeStyle();
-        document.getElementById("bg").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
-        xhr.open('GET', 'ruanjian/bg.html'); // 设置请求类型、地址等信息
+        document.getElementById("bgrj").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/bgrj.html'); // 设置请求类型、地址等信息
     }
     if (value === '平面设计') {
         removeStyle();
