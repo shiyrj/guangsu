@@ -124,8 +124,8 @@ function replaceContent(value) {
     }
     if (value === '三维设计') {
         removeStyle();
-        document.getElementById("sw").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
-        xhr.open('GET', 'ruanjian/sw.html'); // 设置请求类型、地址等信息
+        document.getElementById("swsj").style = "background-color: rgb(212, 115, 25); transition: background-color 0.5s ease 0s;";
+        xhr.open('GET', 'ruanjian/swsj.html'); // 设置请求类型、地址等信息
     }
     if (value === '建筑设计') {
         removeStyle();

@@ -6,7 +6,7 @@ const options = [
     { text: 'Photoshop 2024', url: 'https://pan.xunlei.com/s/VO9Zh0nwU-HW8ZfEfbRkbBBSA1?pwd=iduy#' },
     { text: 'Premiere 2024 24.4.1', url: 'https://pan.xunlei.com/s/VO9ZhO7yDtSCJ6iviINdKV4_A1?pwd=h3ar#' },
     { text: 'Acrobat DC 2024', url: 'https://pan.xunlei.com/s/VO9ZiNN_F01TBjaOktqmNFTiA1?pwd=35xx#' },
-    { text: 'Animate 2024', url: 'https://pan.xunlei.com/s/VO9ZidaChASkTUoPEOGzi_M9A1?pwd=hp9z#' },
+    { text: 'Animate 2024', url: 'https://pan.xunlei.com/s/VOAkyOd2jqhcVWcsT0I1JnGUA1?pwd=m4p8#' },
     { text: 'Dimension 2022', url: 'https://pan.xunlei.com/s/VO9Zj4JFErfnXKUcRfxHVjqqA1?pwd=8x3y#' },
     { text: 'illustrator 2024', url: 'https://pan.xunlei.com/s/VO9ZjMRPFPmj0eAVSspbrh3IA1?pwd=z3bg#' },
     { text: 'Lightroom Classic 2024 13.4', url: 'https://pan.xunlei.com/s/VO9ZjaxWErfnXKUcRfxHVuxTA1?pwd=wabs#' },
@@ -61,6 +61,30 @@ const options = [
     { text: 'Stata 18', url: 'https://pan.xunlei.com/s/VO9dnG56xq0e6k0b6yrWF7rfA1?pwd=cskp#' },
     { text: 'Minitab 21', url: 'https://pan.xunlei.com/s/VO9dnkIEgJLExogrdhgW0g7nA1?pwd=g5xg#' },
     { text: 'Mplus 8.7', url: 'https://pan.xunlei.com/s/VO9doGrL2HybElvIDsX5bzBcA1?pwd=z8dc#' },
+    { text: 'C4D 2024', url: 'https://pan.xunlei.com/s/VOAl0RmQXWDu4kivZv7m3dpUA1?pwd=tpkc#' },
+    { text: 'C4D 2024 5.0', url: 'https://pan.xunlei.com/s/VOAl0lTUIsoxC8LpDURDUfrZA1?pwd=ynci#' },
+    { text: '3dmax 2024', url: 'https://pan.xunlei.com/s/VOAl24DO7TZlOOUcRUPpt5S8A1?pwd=357p#' },
+    { text: '3dmax 2025', url: 'https://pan.xunlei.com/s/VOAl2JcISN7RdpC7tQ58E4WNA1?pwd=6yyd#' },
+    { text: 'SketchUp 2024', url: 'https://pan.xunlei.com/s/VOAl47Wwc5vChKVXk73ljEgXA1?pwd=g6xu#' },
+    { text: 'SolidWorks 2024', url: 'https://pan.xunlei.com/s/VOAl4mQJLozyClXaX8k9Z1btA1?pwd=bngq#' },
+    { text: 'SolidWorks 2024SP5.0', url: 'https://pan.xunlei.com/s/VOAl4yGn3PGiBhN4CQQBqKAdA1?pwd=zvn5#' },
+    { text: 'Blender 4.2', url: 'https://pan.xunlei.com/s/VOAl5guca83B8UJ0t30xaYXqA1?pwd=v83j#' },
+    { text: 'Blender 4.0', url: 'https://pan.xunlei.com/s/VOAl5zAaTZUEL58Uh04HRpKhA1?pwd=srui#' },
+    { text: 'ZBrush 2025', url: 'https://pan.xunlei.com/s/VOAl95ceCOoU9K0ODnf6Alx7A1?pwd=ngpu#' },
+    { text: 'ZBrush 2024', url: 'https://pan.xunlei.com/s/VOAl9NKEM8b-PFjZe2mg_FGxA1?pwd=da5p#' },
+    { text: 'KeyShot 2024', url: 'https://pan.xunlei.com/s/VOAlA24HGPS1tqT-E-IP4nkrA1?pwd=pkcx#' },
+    { text: 'ENVI 5.6', url: 'https://pan.xunlei.com/s/VOAlAZ7I3yWeXr1momDYs6kTA1?pwd=7nvj#' }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
