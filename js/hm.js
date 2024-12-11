@@ -73,7 +73,21 @@ const options = [
     { text: 'ZBrush 2025', url: 'https://pan.xunlei.com/s/VOAl95ceCOoU9K0ODnf6Alx7A1?pwd=ngpu#' },
     { text: 'ZBrush 2024', url: 'https://pan.xunlei.com/s/VOAl9NKEM8b-PFjZe2mg_FGxA1?pwd=da5p#' },
     { text: 'KeyShot 2024', url: 'https://pan.xunlei.com/s/VOAlA24HGPS1tqT-E-IP4nkrA1?pwd=pkcx#' },
-    { text: 'ENVI 5.6', url: 'https://pan.xunlei.com/s/VOAlAZ7I3yWeXr1momDYs6kTA1?pwd=7nvj#' }
+    { text: 'ENVI 5.6', url: 'https://pan.xunlei.com/s/VOAlAZ7I3yWeXr1momDYs6kTA1?pwd=7nvj#' },
+    { text: 'Photoshop 2025', url: 'https://pan.xunlei.com/s/VODpbsIolV-qVoiIsC07wgmhA1?pwd=8ytk#' },
+    { text: 'Adobe Illustrator 2025 V29.0', url: 'https://pan.xunlei.com/s/VODpgJ4OqqGXKOhj6W9vZPq6A1?pwd=fvbh#' },
+    { text: 'Adobe Lightroom Classic 2025', url: 'https://pan.xunlei.com/s/VODphH3c8u14g1mC4iiM2qpXA1?pwd=dwub#' },
+    { text: 'Photoshop 2025神经滤镜', url: 'https://pan.xunlei.com/s/VODphujFPh34cmY4iTl2K9c_A1?pwd=aib8#' },
+    { text: 'Adobe Premiere Pro 2025', url: 'https://pan.xunlei.com/s/VODpibwwartrUVtuqbMiN8oxA1?pwd=ju2v#' },
+    { text: 'Adobe After Effects 2025', url: 'https://pan.xunlei.com/s/VODpjqBQKYBdBxM31lJfQ0LFA1?pwd=rigc#' },
+    { text: 'Adobe Audition 2025', url: 'https://pan.xunlei.com/s/VODpkErRartrUVtuqbMiOBiaA1?pwd=criw#' },
+    { text: 'Adobe Bridge 2025', url: 'https://pan.xunlei.com/s/VODpkgIYf8Qa_m5haS8u-AsVA1?pwd=vhe2#' },
+    { text: 'Adobe Illustrator 2025 V29.1', url: 'https://pan.xunlei.com/s/VODplAejrUZ9mg1KiBsfJKeOA1?pwd=yfvk#' },
+    { text: 'Adobe InCopy 2025', url: 'https://pan.xunlei.com/s/VODplW4wPh34cmY4iTl2M3xPA1?pwd=ie8k#' },
+    { text: 'Adobe InDesign 2025', url: 'https://pan.xunlei.com/s/VODpm-W-rUZ9mg1KiBsfJiRjA1?pwd=y83g#' },
+    { text: 'Adobe Media Encoder 2025', url: 'https://pan.xunlei.com/s/VODpmMS-f8Qa_m5haS8u00QzA1?pwd=2smd#' },
+    { text: 'Adobe Character Animator 2025', url: 'https://pan.xunlei.com/s/VODpmmuOb6zBidi3wvfSjRKMA1?pwd=bae7#' }
+
 
 
 
