@@ -86,7 +86,30 @@ const options = [
     { text: 'Adobe InCopy 2025', url: 'https://pan.xunlei.com/s/VODplW4wPh34cmY4iTl2M3xPA1?pwd=ie8k#' },
     { text: 'Adobe InDesign 2025', url: 'https://pan.xunlei.com/s/VODpm-W-rUZ9mg1KiBsfJiRjA1?pwd=y83g#' },
     { text: 'Adobe Media Encoder 2025', url: 'https://pan.xunlei.com/s/VODpmMS-f8Qa_m5haS8u00QzA1?pwd=2smd#' },
-    { text: 'Adobe Character Animator 2025', url: 'https://pan.xunlei.com/s/VODpmmuOb6zBidi3wvfSjRKMA1?pwd=bae7#' }
+    { text: 'Adobe Character Animator 2025', url: 'https://pan.xunlei.com/s/VODpmmuOb6zBidi3wvfSjRKMA1?pwd=bae7#' },
+    { text: '达芬奇19.1.3', url: 'https://pan.xunlei.com/s/VOJCd0xBvY8tFihJ6KqauOT0A1?pwd=8bsn#' },
+    { text: 'Altium Designer 25.0', url: 'https://pan.xunlei.com/s/VOJCeF4Pyq7Yrt9WcvKMYKMuA1?pwd=rafk#' },
+    { text: 'office 2024正式版', url: 'https://pan.xunlei.com/s/VOJCfxndbiJ0FkEH1IiqL-ciA1?pwd=y9yj#' },
+    { text: 'Matlab 2024A', url: 'https://pan.xunlei.com/s/VOJClfsoyq7Yrt9WcvKMbBGlA1?pwd=sysz#' },
+    { text: 'Matlab 2024B', url: 'https://pan.xunlei.com/s/VOJCluTrrz7Nxujg7TwLvsCqA1?pwd=2vmi#' },
+    { text: 'C4D 2025', url: 'https://pan.xunlei.com/s/VOJCmKv1SRSStJo7r08pSetiA1?pwd=gyqx#' },
+    { text: 'SolidWorks 2025', url: 'https://pan.xunlei.com/s/VOJCmxgUOG6cK489gNBRRb2GA1?pwd=bngd#' },
+    { text: 'Typora 1.9.5', url: 'https://pan.xunlei.com/s/VOJCofMryq7Yrt9WcvKMcbZYA1?pwd=76tf#' },
+    { text: 'WPS 2024(含VBA)', url: 'https://pan.xunlei.com/s/VOJCqRg38QjL7_fGVIBl_vJ2A1?pwd=3ruf#' },
+    { text: 'ACDSee 2025', url: 'https://pan.xunlei.com/s/VOJCrpLavWCaS_Cw8B6SwHbfA1?pwd=y2hf#' },
+    { text: 'ACDSee 2024', url: 'https://pan.xunlei.com/s/VOJCs3vjUENHF9CpQ-xL3UZbA1?pwd=kjha#' },
+    { text: 'Solid Edge 2025', url: 'https://pan.xunlei.com/s/VOJCtqkn4yQvg8AueEG-wOruA1?pwd=s9w7#' },
+    { text: 'Solid Edge 2024', url: 'https://pan.xunlei.com/s/VOJCu-YsbiJ0FkEH1IiqSNX9A1?pwd=kp6t#' },
+    { text: 'Mastercam 2025', url: 'https://pan.xunlei.com/s/VOJCuoO2koeIKiDdpCx3Ale9A1?pwd=4tpm#' },
+    { text: 'Mastercam 2024', url: 'https://pan.xunlei.com/s/VOJCuwQkzYqJ38Y9xFzl3Xm8A1?pwd=mt93#' },
+
+
+
+
+
+
+
+
 
 
 
