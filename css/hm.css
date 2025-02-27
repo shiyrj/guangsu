@@ -3,7 +3,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
-
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* 搜索容器样式 */
 .search-container {
     margin-left: 22%;
