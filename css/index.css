@@ -54,6 +54,45 @@ body {
     color: black;
 }
 
+.jieshao {
+    #display: flex;
+    height: 170px;
+    justify-content: center;
+    align-items: center;
+}
+
+.js3 a {
+    height: 20px;
+    display: flex;
+    width: 900px;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid rgb(214, 218, 224);
+    padding-bottom: 15px;
+}
+
+.js1 {
+    margin-left: 10%;
+    height: 90px;
+    justify-content: center;
+    align-items: center;
+    color: rgb(148, 127, 32);
+    font-size: 31px;
+}
+
+.js2 {
+    margin-left: 41%;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.js3 {
+    margin-left: 21%;
+    justify-content: center;
+    align-items: center;
+}
+
 .lanmu {
     display: flex;
     height: 35px;
