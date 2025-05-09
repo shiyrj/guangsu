@@ -73,11 +73,11 @@ body {
 
 .js1 {
     margin-left: 10%;
-    height: 90px;
+    height: 60px;
     justify-content: center;
     align-items: center;
     color: rgb(148, 127, 32);
-    font-size: 31px;
+    font-size: 41px;
 }
 
 .js2 {
@@ -311,7 +311,7 @@ i.iconfont {
 }
 
 #kuake{
-    animation: blinker 1s linear infinite;
+    animation: blinker 3s linear infinite;
 }
 
 .lad1 {
@@ -329,16 +329,28 @@ i.iconfont {
 
 .lad2 {
     position: absolute;
-    top: 110px;
-    margin-left: 10px;
+    top: 200px;
+    margin-left: 4px;
     display: none;
     width: 19%;
 }
 
-.lad2 .dlink .link a{
+.lad2 .dlink .link1 a{
     color: #ff5d5d;
     font-size: 22px;
 }
+
+.lad2 .dlink .link1 a div{
+    font-size: 40px;
+    text-align: center; /* 设置文字居中 */
+}
+
+.lad2 .dlink .link1 a img{
+    width: 270px;
+    height: 190px;
+    margin: 2px;
+}
+
 
 @keyframes blinker {
     0% {
@@ -501,6 +513,16 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (max-width: 1380px) {
+    .lad2 {
+        position: absolute;
+        top: 45px;
+        margin-left: -1000px;
+        display: none;
+    }
+}
+
 @media screen and (max-width: 1280px) {
     /* 当屏幕宽度小于等于1280px时应用的样式 */
     .ad {
@@ -585,6 +607,15 @@ footer {
         font-size: 20px;
     }
 
+    .js1 {
+        margin-left: 10%;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+        color: rgb(148, 127, 32);
+        font-size: 23px;
+    }
+
     .lad1 {
         position: absolute;
         top: 0px;
@@ -604,17 +635,18 @@ footer {
 
     .lad2 {
         position: absolute;
-        top: 40px;
-        margin-left: -2px;
+        top: 35px;
+        margin-left: 0;
         display: none;
     }
 
-    .lad2 .dlink .link a{
-        font-size: 0;
+    #kuake{
+        animation: blinker 3s linear infinite;
     }
-    .lad2 .dlink .link a img{
-        width: 30px;
-        height: 30px;
+
+    .lad2 .dlink .link1 a img{
+        width: 105px;
+        height: 78px;
         margin: 2px;
     }
 
